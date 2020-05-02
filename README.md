@@ -6,6 +6,7 @@
 *Encyption
 
 we want to understanding the given function to solve the problems
+
 found the main idea is The reverse operation of XOR is also XOR
 ** i.e x^y=z, y=x^z, x=y^z
 
